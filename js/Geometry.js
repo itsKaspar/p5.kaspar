@@ -4,6 +4,7 @@ p5.prototype.isPointinCircle = function(px, py, cx, cy, cr){ return (distSq(px, 
 p5.prototype.isPointinSquare = function(){}
 
 // # Generate uniform points inside polygons
+
 p5.prototype.pointInQuad = function(){}
 p5.prototype.pointInSquare = function(){}
 
